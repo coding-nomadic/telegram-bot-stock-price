@@ -1,4 +1,4 @@
-## telegram-bot-stock-price
+## Telegram-Bot-Stock-Price
 
 Fetch latest NSE stock price and notify with Telegram bot 
 
