@@ -1,5 +1,5 @@
 config:
    bot_token: 6093610456:AAF7t1co1dOmz85i3ZV63WcHQIlvrnMoJoM
-   chat_id: 1832619043
+   chat_id: 
    interval: 20
    stock_name: HDFC
