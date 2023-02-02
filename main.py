@@ -14,6 +14,7 @@ logging.basicConfig(
 
 logger = logging.getLogger()
 
+# fetch the latest NSE stock price from the API.
 def get_stock_price(stock_name):
      nse = NSELive()
      quote = nse.stock_quote(stock_name)
