@@ -2,7 +2,7 @@ import logging
 
 import yaml
 
-
+# reads configuration from yml file and loads as an object.
 class AppConfig(object):
     def __init__(self, config_file: str):
         with open(config_file, 'r') as config_file_handle:
