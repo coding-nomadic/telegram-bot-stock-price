@@ -34,7 +34,6 @@ def send_message_to_telegram_bot(bot_token, chat_id,mf_price):
 
 # load yml file as object
 def load_configuration():
-    #setup_logging()
     config = AppConfig(properties_file)
     if config.is_valid is False:
         return
