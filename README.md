@@ -1,6 +1,6 @@
 ## Telegram-Bot-Stock-Price
 
-Fetch latest NSE stock price and notify with Telegram bot 
+Fetch latest NSE stock price which notifies via Telegram bot 
 
 ## Stock Name change -
 
